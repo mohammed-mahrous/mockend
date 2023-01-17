@@ -40,7 +40,7 @@
       "hasMany": "Comment"
     }
   },
-  "user": {
+  "User": {
   "_": {
     "items": 10 
   },
