@@ -48,10 +48,10 @@
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
     "title": {
-      "regexp": "[ي-ء]{10,20}"
+      "regexp": "[ء-ي]+{10,20}"
     },
     "body": {
-      "regexp": "[ي-ء]{10,100}"
+      "regexp": "[ء-ي]+{10,100}"
 
     },
     "category": {
