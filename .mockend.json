@@ -40,7 +40,7 @@
       "hasMany": "Comment"
     }
   },
-  "ArabicPost": {
+  "SecondPost": {
     "_": {
       "items": 10
     },
