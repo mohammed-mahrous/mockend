@@ -1,5 +1,5 @@
 {
-  "Post_en": {
+  "Post-en": {
     "_": {
       "items": 10
     },
@@ -40,7 +40,7 @@
       "hasMany": "Comment"
     }
   },
-  "Post_ar": {
+  "Post-ar": {
     "_": {
       "items": 10
     },
